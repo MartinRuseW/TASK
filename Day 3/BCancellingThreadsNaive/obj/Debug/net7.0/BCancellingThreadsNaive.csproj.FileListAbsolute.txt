@@ -1,0 +1,14 @@
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\BCancellingThreadsNaive\bin\Debug\net7.0\BCancellingThreadsNaive.exe
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\BCancellingThreadsNaive\bin\Debug\net7.0\BCancellingThreadsNaive.deps.json
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\BCancellingThreadsNaive\bin\Debug\net7.0\BCancellingThreadsNaive.runtimeconfig.json
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\BCancellingThreadsNaive\bin\Debug\net7.0\BCancellingThreadsNaive.dll
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\BCancellingThreadsNaive\bin\Debug\net7.0\BCancellingThreadsNaive.pdb
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\BCancellingThreadsNaive\obj\Debug\net7.0\BCancellingThreadsNaive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\BCancellingThreadsNaive\obj\Debug\net7.0\BCancellingThreadsNaive.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\BCancellingThreadsNaive\obj\Debug\net7.0\BCancellingThreadsNaive.AssemblyInfo.cs
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\BCancellingThreadsNaive\obj\Debug\net7.0\BCancellingThreadsNaive.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\BCancellingThreadsNaive\obj\Debug\net7.0\BCancellingThreadsNaive.dll
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\BCancellingThreadsNaive\obj\Debug\net7.0\refint\BCancellingThreadsNaive.dll
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\BCancellingThreadsNaive\obj\Debug\net7.0\BCancellingThreadsNaive.pdb
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\BCancellingThreadsNaive\obj\Debug\net7.0\BCancellingThreadsNaive.genruntimeconfig.cache
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\BCancellingThreadsNaive\obj\Debug\net7.0\ref\BCancellingThreadsNaive.dll

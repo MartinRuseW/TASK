@@ -1,0 +1,14 @@
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 2\BThreadPriorities\bin\Debug\net7.0\BThreadPriorities.exe
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 2\BThreadPriorities\bin\Debug\net7.0\BThreadPriorities.deps.json
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 2\BThreadPriorities\bin\Debug\net7.0\BThreadPriorities.runtimeconfig.json
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 2\BThreadPriorities\bin\Debug\net7.0\BThreadPriorities.dll
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 2\BThreadPriorities\bin\Debug\net7.0\BThreadPriorities.pdb
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 2\BThreadPriorities\obj\Debug\net7.0\BThreadPriorities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 2\BThreadPriorities\obj\Debug\net7.0\BThreadPriorities.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 2\BThreadPriorities\obj\Debug\net7.0\BThreadPriorities.AssemblyInfo.cs
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 2\BThreadPriorities\obj\Debug\net7.0\BThreadPriorities.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 2\BThreadPriorities\obj\Debug\net7.0\BThreadPriorities.dll
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 2\BThreadPriorities\obj\Debug\net7.0\refint\BThreadPriorities.dll
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 2\BThreadPriorities\obj\Debug\net7.0\BThreadPriorities.pdb
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 2\BThreadPriorities\obj\Debug\net7.0\BThreadPriorities.genruntimeconfig.cache
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 2\BThreadPriorities\obj\Debug\net7.0\ref\BThreadPriorities.dll

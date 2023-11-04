@@ -1,0 +1,16 @@
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\AHomeworkColorsDemo\bin\Debug\net7.0-windows\AHomeworkColorsDemo.exe
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\AHomeworkColorsDemo\bin\Debug\net7.0-windows\AHomeworkColorsDemo.deps.json
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\AHomeworkColorsDemo\bin\Debug\net7.0-windows\AHomeworkColorsDemo.runtimeconfig.json
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\AHomeworkColorsDemo\bin\Debug\net7.0-windows\AHomeworkColorsDemo.dll
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\AHomeworkColorsDemo\bin\Debug\net7.0-windows\AHomeworkColorsDemo.pdb
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\AHomeworkColorsDemo\obj\Debug\net7.0-windows\AHomeworkColorsDemo.MainForm.resources
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\AHomeworkColorsDemo\obj\Debug\net7.0-windows\AHomeworkColorsDemo.csproj.GenerateResource.cache
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\AHomeworkColorsDemo\obj\Debug\net7.0-windows\AHomeworkColorsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\AHomeworkColorsDemo\obj\Debug\net7.0-windows\AHomeworkColorsDemo.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\AHomeworkColorsDemo\obj\Debug\net7.0-windows\AHomeworkColorsDemo.AssemblyInfo.cs
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\AHomeworkColorsDemo\obj\Debug\net7.0-windows\AHomeworkColorsDemo.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\AHomeworkColorsDemo\obj\Debug\net7.0-windows\AHomeworkColorsDemo.dll
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\AHomeworkColorsDemo\obj\Debug\net7.0-windows\refint\AHomeworkColorsDemo.dll
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\AHomeworkColorsDemo\obj\Debug\net7.0-windows\AHomeworkColorsDemo.pdb
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\AHomeworkColorsDemo\obj\Debug\net7.0-windows\AHomeworkColorsDemo.genruntimeconfig.cache
+C:\Projects\Lectures\2023-2024\Parallel programming\Day 3\AHomeworkColorsDemo\obj\Debug\net7.0-windows\ref\AHomeworkColorsDemo.dll
