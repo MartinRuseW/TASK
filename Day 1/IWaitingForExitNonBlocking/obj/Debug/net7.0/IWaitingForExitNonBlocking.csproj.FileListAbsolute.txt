@@ -1,0 +1,14 @@
+C:\Projects\Lectures\2023-2024\Day 1\IWaitingForExitNonBlocking\bin\Debug\net7.0\IWaitingForExitNonBlocking.exe
+C:\Projects\Lectures\2023-2024\Day 1\IWaitingForExitNonBlocking\bin\Debug\net7.0\IWaitingForExitNonBlocking.deps.json
+C:\Projects\Lectures\2023-2024\Day 1\IWaitingForExitNonBlocking\bin\Debug\net7.0\IWaitingForExitNonBlocking.runtimeconfig.json
+C:\Projects\Lectures\2023-2024\Day 1\IWaitingForExitNonBlocking\bin\Debug\net7.0\IWaitingForExitNonBlocking.dll
+C:\Projects\Lectures\2023-2024\Day 1\IWaitingForExitNonBlocking\bin\Debug\net7.0\IWaitingForExitNonBlocking.pdb
+C:\Projects\Lectures\2023-2024\Day 1\IWaitingForExitNonBlocking\obj\Debug\net7.0\IWaitingForExitNonBlocking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2023-2024\Day 1\IWaitingForExitNonBlocking\obj\Debug\net7.0\IWaitingForExitNonBlocking.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2023-2024\Day 1\IWaitingForExitNonBlocking\obj\Debug\net7.0\IWaitingForExitNonBlocking.AssemblyInfo.cs
+C:\Projects\Lectures\2023-2024\Day 1\IWaitingForExitNonBlocking\obj\Debug\net7.0\IWaitingForExitNonBlocking.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2023-2024\Day 1\IWaitingForExitNonBlocking\obj\Debug\net7.0\IWaitingForExitNonBlocking.dll
+C:\Projects\Lectures\2023-2024\Day 1\IWaitingForExitNonBlocking\obj\Debug\net7.0\refint\IWaitingForExitNonBlocking.dll
+C:\Projects\Lectures\2023-2024\Day 1\IWaitingForExitNonBlocking\obj\Debug\net7.0\IWaitingForExitNonBlocking.pdb
+C:\Projects\Lectures\2023-2024\Day 1\IWaitingForExitNonBlocking\obj\Debug\net7.0\IWaitingForExitNonBlocking.genruntimeconfig.cache
+C:\Projects\Lectures\2023-2024\Day 1\IWaitingForExitNonBlocking\obj\Debug\net7.0\ref\IWaitingForExitNonBlocking.dll

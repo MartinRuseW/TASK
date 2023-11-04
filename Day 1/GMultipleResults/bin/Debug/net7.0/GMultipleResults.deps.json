@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "GMultipleResults/1.0.0": {
+        "runtime": {
+          "GMultipleResults.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GMultipleResults/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

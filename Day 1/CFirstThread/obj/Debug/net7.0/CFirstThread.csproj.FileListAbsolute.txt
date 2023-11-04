@@ -1,0 +1,14 @@
+C:\Projects\Lectures\2023-2024\Day 1\CFirstThread\bin\Debug\net7.0\CFirstThread.exe
+C:\Projects\Lectures\2023-2024\Day 1\CFirstThread\bin\Debug\net7.0\CFirstThread.deps.json
+C:\Projects\Lectures\2023-2024\Day 1\CFirstThread\bin\Debug\net7.0\CFirstThread.runtimeconfig.json
+C:\Projects\Lectures\2023-2024\Day 1\CFirstThread\bin\Debug\net7.0\CFirstThread.dll
+C:\Projects\Lectures\2023-2024\Day 1\CFirstThread\bin\Debug\net7.0\CFirstThread.pdb
+C:\Projects\Lectures\2023-2024\Day 1\CFirstThread\obj\Debug\net7.0\CFirstThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2023-2024\Day 1\CFirstThread\obj\Debug\net7.0\CFirstThread.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2023-2024\Day 1\CFirstThread\obj\Debug\net7.0\CFirstThread.AssemblyInfo.cs
+C:\Projects\Lectures\2023-2024\Day 1\CFirstThread\obj\Debug\net7.0\CFirstThread.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2023-2024\Day 1\CFirstThread\obj\Debug\net7.0\CFirstThread.dll
+C:\Projects\Lectures\2023-2024\Day 1\CFirstThread\obj\Debug\net7.0\refint\CFirstThread.dll
+C:\Projects\Lectures\2023-2024\Day 1\CFirstThread\obj\Debug\net7.0\CFirstThread.pdb
+C:\Projects\Lectures\2023-2024\Day 1\CFirstThread\obj\Debug\net7.0\CFirstThread.genruntimeconfig.cache
+C:\Projects\Lectures\2023-2024\Day 1\CFirstThread\obj\Debug\net7.0\ref\CFirstThread.dll

@@ -1,0 +1,16 @@
+C:\Projects\Lectures\2023-2024\Day 1\BBlockingUI\bin\Debug\net7.0-windows\BBlockingUI.exe
+C:\Projects\Lectures\2023-2024\Day 1\BBlockingUI\bin\Debug\net7.0-windows\BBlockingUI.deps.json
+C:\Projects\Lectures\2023-2024\Day 1\BBlockingUI\bin\Debug\net7.0-windows\BBlockingUI.runtimeconfig.json
+C:\Projects\Lectures\2023-2024\Day 1\BBlockingUI\bin\Debug\net7.0-windows\BBlockingUI.dll
+C:\Projects\Lectures\2023-2024\Day 1\BBlockingUI\bin\Debug\net7.0-windows\BBlockingUI.pdb
+C:\Projects\Lectures\2023-2024\Day 1\BBlockingUI\obj\Debug\net7.0-windows\BBlockingUI.MainForm.resources
+C:\Projects\Lectures\2023-2024\Day 1\BBlockingUI\obj\Debug\net7.0-windows\BBlockingUI.csproj.GenerateResource.cache
+C:\Projects\Lectures\2023-2024\Day 1\BBlockingUI\obj\Debug\net7.0-windows\BBlockingUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2023-2024\Day 1\BBlockingUI\obj\Debug\net7.0-windows\BBlockingUI.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2023-2024\Day 1\BBlockingUI\obj\Debug\net7.0-windows\BBlockingUI.AssemblyInfo.cs
+C:\Projects\Lectures\2023-2024\Day 1\BBlockingUI\obj\Debug\net7.0-windows\BBlockingUI.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2023-2024\Day 1\BBlockingUI\obj\Debug\net7.0-windows\BBlockingUI.dll
+C:\Projects\Lectures\2023-2024\Day 1\BBlockingUI\obj\Debug\net7.0-windows\refint\BBlockingUI.dll
+C:\Projects\Lectures\2023-2024\Day 1\BBlockingUI\obj\Debug\net7.0-windows\BBlockingUI.pdb
+C:\Projects\Lectures\2023-2024\Day 1\BBlockingUI\obj\Debug\net7.0-windows\BBlockingUI.genruntimeconfig.cache
+C:\Projects\Lectures\2023-2024\Day 1\BBlockingUI\obj\Debug\net7.0-windows\ref\BBlockingUI.dll

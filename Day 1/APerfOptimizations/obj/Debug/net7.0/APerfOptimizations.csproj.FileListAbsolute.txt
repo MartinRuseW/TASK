@@ -1,0 +1,14 @@
+C:\Projects\Lectures\2023-2024\Day 1\APerfOptimizations\bin\Debug\net7.0\APerfOptimizations.exe
+C:\Projects\Lectures\2023-2024\Day 1\APerfOptimizations\bin\Debug\net7.0\APerfOptimizations.deps.json
+C:\Projects\Lectures\2023-2024\Day 1\APerfOptimizations\bin\Debug\net7.0\APerfOptimizations.runtimeconfig.json
+C:\Projects\Lectures\2023-2024\Day 1\APerfOptimizations\bin\Debug\net7.0\APerfOptimizations.dll
+C:\Projects\Lectures\2023-2024\Day 1\APerfOptimizations\bin\Debug\net7.0\APerfOptimizations.pdb
+C:\Projects\Lectures\2023-2024\Day 1\APerfOptimizations\obj\Debug\net7.0\APerfOptimizations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2023-2024\Day 1\APerfOptimizations\obj\Debug\net7.0\APerfOptimizations.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2023-2024\Day 1\APerfOptimizations\obj\Debug\net7.0\APerfOptimizations.AssemblyInfo.cs
+C:\Projects\Lectures\2023-2024\Day 1\APerfOptimizations\obj\Debug\net7.0\APerfOptimizations.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2023-2024\Day 1\APerfOptimizations\obj\Debug\net7.0\APerfOptimizations.dll
+C:\Projects\Lectures\2023-2024\Day 1\APerfOptimizations\obj\Debug\net7.0\refint\APerfOptimizations.dll
+C:\Projects\Lectures\2023-2024\Day 1\APerfOptimizations\obj\Debug\net7.0\APerfOptimizations.pdb
+C:\Projects\Lectures\2023-2024\Day 1\APerfOptimizations\obj\Debug\net7.0\APerfOptimizations.genruntimeconfig.cache
+C:\Projects\Lectures\2023-2024\Day 1\APerfOptimizations\obj\Debug\net7.0\ref\APerfOptimizations.dll

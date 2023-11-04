@@ -1,0 +1,14 @@
+C:\Projects\Lectures\2023-2024\Day 1\JCarefulWithThatJoin\bin\Debug\net7.0\JCarefulWithThatJoin.exe
+C:\Projects\Lectures\2023-2024\Day 1\JCarefulWithThatJoin\bin\Debug\net7.0\JCarefulWithThatJoin.deps.json
+C:\Projects\Lectures\2023-2024\Day 1\JCarefulWithThatJoin\bin\Debug\net7.0\JCarefulWithThatJoin.runtimeconfig.json
+C:\Projects\Lectures\2023-2024\Day 1\JCarefulWithThatJoin\bin\Debug\net7.0\JCarefulWithThatJoin.dll
+C:\Projects\Lectures\2023-2024\Day 1\JCarefulWithThatJoin\bin\Debug\net7.0\JCarefulWithThatJoin.pdb
+C:\Projects\Lectures\2023-2024\Day 1\JCarefulWithThatJoin\obj\Debug\net7.0\JCarefulWithThatJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2023-2024\Day 1\JCarefulWithThatJoin\obj\Debug\net7.0\JCarefulWithThatJoin.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2023-2024\Day 1\JCarefulWithThatJoin\obj\Debug\net7.0\JCarefulWithThatJoin.AssemblyInfo.cs
+C:\Projects\Lectures\2023-2024\Day 1\JCarefulWithThatJoin\obj\Debug\net7.0\JCarefulWithThatJoin.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2023-2024\Day 1\JCarefulWithThatJoin\obj\Debug\net7.0\JCarefulWithThatJoin.dll
+C:\Projects\Lectures\2023-2024\Day 1\JCarefulWithThatJoin\obj\Debug\net7.0\refint\JCarefulWithThatJoin.dll
+C:\Projects\Lectures\2023-2024\Day 1\JCarefulWithThatJoin\obj\Debug\net7.0\JCarefulWithThatJoin.pdb
+C:\Projects\Lectures\2023-2024\Day 1\JCarefulWithThatJoin\obj\Debug\net7.0\JCarefulWithThatJoin.genruntimeconfig.cache
+C:\Projects\Lectures\2023-2024\Day 1\JCarefulWithThatJoin\obj\Debug\net7.0\ref\JCarefulWithThatJoin.dll

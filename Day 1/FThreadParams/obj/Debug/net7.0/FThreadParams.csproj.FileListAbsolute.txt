@@ -1,0 +1,14 @@
+C:\Projects\Lectures\2023-2024\Day 1\FThreadParams\bin\Debug\net7.0\FThreadParams.exe
+C:\Projects\Lectures\2023-2024\Day 1\FThreadParams\bin\Debug\net7.0\FThreadParams.deps.json
+C:\Projects\Lectures\2023-2024\Day 1\FThreadParams\bin\Debug\net7.0\FThreadParams.runtimeconfig.json
+C:\Projects\Lectures\2023-2024\Day 1\FThreadParams\bin\Debug\net7.0\FThreadParams.dll
+C:\Projects\Lectures\2023-2024\Day 1\FThreadParams\bin\Debug\net7.0\FThreadParams.pdb
+C:\Projects\Lectures\2023-2024\Day 1\FThreadParams\obj\Debug\net7.0\FThreadParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2023-2024\Day 1\FThreadParams\obj\Debug\net7.0\FThreadParams.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2023-2024\Day 1\FThreadParams\obj\Debug\net7.0\FThreadParams.AssemblyInfo.cs
+C:\Projects\Lectures\2023-2024\Day 1\FThreadParams\obj\Debug\net7.0\FThreadParams.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2023-2024\Day 1\FThreadParams\obj\Debug\net7.0\FThreadParams.dll
+C:\Projects\Lectures\2023-2024\Day 1\FThreadParams\obj\Debug\net7.0\refint\FThreadParams.dll
+C:\Projects\Lectures\2023-2024\Day 1\FThreadParams\obj\Debug\net7.0\FThreadParams.pdb
+C:\Projects\Lectures\2023-2024\Day 1\FThreadParams\obj\Debug\net7.0\FThreadParams.genruntimeconfig.cache
+C:\Projects\Lectures\2023-2024\Day 1\FThreadParams\obj\Debug\net7.0\ref\FThreadParams.dll
